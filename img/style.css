@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* ajusta os valores dentro da caixa sem alterar seu tamanho*/
+}
+
+body{
+    background-image: url(backgound.png);
+}

@@ -55,11 +55,12 @@ h3{
 
 .label{
     margin: 8px;
+    
 }
 
 .caixa{
     display: block;
-    width: 100%;
+    width: 80%;
     margin: 10px auto;
     margin-bottom: 40px;
 }
